@@ -1,0 +1,7 @@
+Para acessar o colab, acesse o link abaixo:
+
+Para acessar o colab com o código do Bertimbau :
+https://colab.research.google.com/drive/14bHqZv0RXlzBKu2HhK4h_AY9PoZz1tTM?usp=sharing
+
+Para acessar o colab com o código do extrator de tweets :
+https://colab.research.google.com/drive/1vKfycVZx78hzdLQKkR75u9DN25Xnjdx_?usp=sharing 
